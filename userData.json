@@ -1,6 +1,6 @@
 {
-    "76561198019968469": {
-        "url": "https://steamcommunity.com/profiles/76561198019968469",
+    "76561198045407346": {
+        "url": "https://steamcommunity.com/profiles/76561198045407346",
         "popularity": [
             {
                 "appid": 550,
@@ -17,6 +17,7 @@
                 "genre": [
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 2
             },
             {
@@ -26,6 +27,7 @@
                     "Adventure",
                     "Action"
                 ],
+                "actual": 0,
                 "rank": 3
             },
             {
@@ -34,6 +36,7 @@
                 "genre": [
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 4
             },
             {
@@ -45,6 +48,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 5
             },
             {
@@ -54,6 +58,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 6
             },
             {
@@ -62,6 +67,7 @@
                 "genre": [
                     "Action"
                 ],
+                "actual": 0,
                 "rank": 7
             },
             {
@@ -72,6 +78,7 @@
                     "Indie",
                     "RPG"
                 ],
+                "actual": 1,
                 "rank": 8
             },
             {
@@ -83,6 +90,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 9
             },
             {
@@ -92,6 +100,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 10
             }
         ],
@@ -188,33 +197,144 @@
         ],
         "collaborative": [
             {
-                "appid": 1222670,
-                "name": "The Sims\u2122 4",
+                "appid": 1169040,
+                "name": "Necesse",
                 "genre": [
-                    "Simulation",
-                    "Casual",
-                    "Free To Play",
-                    "Adventure"
+                    "Indie",
+                    "Early Access",
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "actual": 1,
                 "rank": 1
             },
             {
-                "appid": 271590,
-                "name": "Grand Theft Auto V Legacy",
+                "appid": 632360,
+                "name": "Risk of Rain 2",
                 "genre": [
-                    "Adventure",
+                    "Indie",
                     "Action"
                 ],
-                "actual": 0,
+                "actual": 1,
                 "rank": 2
             },
             {
-                "appid": 578080,
-                "name": "PUBG: BATTLEGROUNDS",
+                "appid": 677120,
+                "name": "Heroes of Hammerwatch",
                 "genre": [
-                    "Massively Multiplayer",
-                    "Free To Play",
+                    "Indie",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 3
+            },
+            {
+                "appid": 427410,
+                "name": "Abiotic Factor",
+                "genre": [
+                    "Simulation",
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 4
+            },
+            {
+                "appid": 1621690,
+                "name": "Core Keeper",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 5
+            },
+            {
+                "appid": 527230,
+                "name": "For The King",
+                "genre": [
+                    "Strategy",
+                    "Indie",
+                    "Adventure",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 6
+            },
+            {
+                "appid": 552500,
+                "name": "Warhammer: Vermintide 2",
+                "genre": [
+                    "Indie",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 7
+            },
+            {
+                "appid": 553850,
+                "name": "HELLDIVERS\u2122 2",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 602960,
+                "name": "Barotrauma",
+                "genre": [
+                    "Strategy",
+                    "Simulation",
+                    "Indie",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 548430,
+                "name": "Deep Rock Galactic",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 10
+            }
+        ]
+    },
+    "76561198135493018": {
+        "url": "https://steamcommunity.com/profiles/76561198135493018",
+        "popularity": [
+            {
+                "appid": 550,
+                "name": "Left 4 Dead 2",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 2
+            },
+            {
+                "appid": 620,
+                "name": "Portal 2",
+                "genre": [
                     "Adventure",
                     "Action"
                 ],
@@ -222,16 +342,528 @@
                 "rank": 3
             },
             {
-                "appid": 252490,
-                "name": "Rust",
+                "appid": 292030,
+                "name": "The Witcher 3: Wild Hunt",
                 "genre": [
-                    "Massively Multiplayer",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 4
+            },
+            {
+                "appid": 105600,
+                "name": "Terraria",
+                "genre": [
                     "Indie",
                     "Adventure",
                     "Action",
                     "RPG"
                 ],
                 "actual": 0,
+                "rank": 5
+            },
+            {
+                "appid": 1245620,
+                "name": "ELDEN RING",
+                "genre": [
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 6
+            },
+            {
+                "appid": 379720,
+                "name": "DOOM",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 7
+            },
+            {
+                "appid": 413150,
+                "name": "Stardew Valley",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 1794680,
+                "name": "Vampire Survivors",
+                "genre": [
+                    "Indie",
+                    "Casual",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 239140,
+                "name": "Dying Light",
+                "genre": [
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 10
+            }
+        ],
+        "content": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "collaborative": [
+            {
+                "appid": 1943950,
+                "name": "Escape the Backrooms",
+                "genre": [
+                    "Indie",
+                    "Early Access"
+                ],
+                "actual": 1,
+                "rank": 1
+            },
+            {
+                "appid": 648800,
+                "name": "Raft",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Adventure"
+                ],
+                "actual": 1,
+                "rank": 2
+            },
+            {
+                "appid": 3241660,
+                "name": "R.E.P.O.",
+                "genre": [
+                    "Early Access",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 3
+            },
+            {
+                "appid": 3527290,
+                "name": "PEAK",
+                "genre": [
+                    "Indie",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 4
+            },
+            {
+                "appid": 1966720,
+                "name": "Lethal Company",
+                "genre": [
+                    "Indie",
+                    "Early Access",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 5
+            },
+            {
+                "appid": 739630,
+                "name": "Phasmophobia",
+                "genre": [
+                    "Indie",
+                    "Early Access",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 6
+            },
+            {
+                "appid": 3244220,
+                "name": "A Game About Digging A Hole",
+                "genre": [
+                    "Indie",
+                    "Adventure"
+                ],
+                "actual": 0,
+                "rank": 7
+            },
+            {
+                "appid": 3164500,
+                "name": "Schedule I",
+                "genre": [
+                    "Strategy",
+                    "Simulation",
+                    "Indie",
+                    "Early Access",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 1766740,
+                "name": "Choo-Choo Charles",
+                "genre": [
+                    "Indie",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 2835570,
+                "name": "Buckshot Roulette",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 10
+            }
+        ]
+    },
+    "76561198808593316": {
+        "url": "https://steamcommunity.com/profiles/76561198808593316",
+        "popularity": [
+            {
+                "appid": 550,
+                "name": "Left 4 Dead 2",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 2
+            },
+            {
+                "appid": 620,
+                "name": "Portal 2",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 3
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3: Wild Hunt",
+                "genre": [
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 4
+            },
+            {
+                "appid": 105600,
+                "name": "Terraria",
+                "genre": [
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 5
+            },
+            {
+                "appid": 1245620,
+                "name": "ELDEN RING",
+                "genre": [
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 6
+            },
+            {
+                "appid": 379720,
+                "name": "DOOM",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 7
+            },
+            {
+                "appid": 413150,
+                "name": "Stardew Valley",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 1794680,
+                "name": "Vampire Survivors",
+                "genre": [
+                    "Indie",
+                    "Casual",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 239140,
+                "name": "Dying Light",
+                "genre": [
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 10
+            }
+        ],
+        "content": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "collaborative": [
+            {
+                "appid": 1527950,
+                "name": "Wartales",
+                "genre": [
+                    "Strategy",
+                    "Indie",
+                    "Adventure",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 1
+            },
+            {
+                "appid": 1129580,
+                "name": "Medieval Dynasty",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 2
+            },
+            {
+                "appid": 815370,
+                "name": "Green Hell",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 3
+            },
+            {
+                "appid": 261550,
+                "name": "Mount & Blade II: Bannerlord",
+                "genre": [
+                    "Strategy",
+                    "Simulation",
+                    "Indie",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
                 "rank": 4
             },
             {
@@ -242,43 +874,42 @@
                     "Action",
                     "RPG"
                 ],
-                "actual": 0,
+                "actual": 1,
                 "rank": 5
             },
             {
-                "appid": 2507950,
-                "name": "Delta Force",
+                "appid": 379430,
+                "name": "Kingdom Come: Deliverance",
                 "genre": [
-                    "Massively Multiplayer",
-                    "Free To Play",
                     "Adventure",
-                    "Action"
+                    "Action",
+                    "RPG"
                 ],
-                "actual": 1,
+                "actual": 0,
                 "rank": 6
             },
             {
-                "appid": 2073850,
-                "name": "THE FINALS",
+                "appid": 1084160,
+                "name": "Jagged Alliance 3",
                 "genre": [
-                    "Free To Play",
+                    "Strategy",
                     "Action"
                 ],
                 "actual": 0,
                 "rank": 7
             },
             {
-                "appid": 1938090,
-                "name": "Call of Duty\u00ae",
+                "appid": 794260,
+                "name": "Outward Definitive Edition",
                 "genre": [
-                    "Action"
+                    "RPG"
                 ],
                 "actual": 0,
                 "rank": 8
             },
             {
-                "appid": 12210,
-                "name": "Grand Theft Auto IV: The Complete Edition",
+                "appid": 1259420,
+                "name": "Days Gone",
                 "genre": [
                     "Adventure",
                     "Action"
@@ -287,20 +918,22 @@
                 "rank": 9
             },
             {
-                "appid": 1172470,
-                "name": "Apex Legends\u2122",
+                "appid": 1029780,
+                "name": "Going Medieval",
                 "genre": [
-                    "Free To Play",
-                    "Adventure",
-                    "Action"
+                    "Strategy",
+                    "Simulation",
+                    "Indie",
+                    "Early Access",
+                    "RPG"
                 ],
                 "actual": 0,
                 "rank": 10
             }
         ]
     },
-    "76561198042923150": {
-        "url": "https://steamcommunity.com/profiles/76561198042923150",
+    "76561197998881490": {
+        "url": "https://steamcommunity.com/profiles/76561197998881490",
         "popularity": [
             {
                 "appid": 550,
@@ -317,6 +950,7 @@
                 "genre": [
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 2
             },
             {
@@ -326,6 +960,7 @@
                     "Adventure",
                     "Action"
                 ],
+                "actual": 0,
                 "rank": 3
             },
             {
@@ -334,6 +969,7 @@
                 "genre": [
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 4
             },
             {
@@ -345,6 +981,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 5
             },
             {
@@ -354,6 +991,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 6
             },
             {
@@ -362,6 +1000,7 @@
                 "genre": [
                     "Action"
                 ],
+                "actual": 0,
                 "rank": 7
             },
             {
@@ -372,6 +1011,7 @@
                     "Indie",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 8
             },
             {
@@ -383,6 +1023,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 9
             },
             {
@@ -392,6 +1033,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 10
             }
         ],
@@ -488,411 +1130,116 @@
         ],
         "collaborative": [
             {
-                "appid": 945360,
-                "name": "Among Us",
+                "appid": 719040,
+                "name": "Wasteland 3",
                 "genre": [
-                    "Casual"
+                    "Strategy",
+                    "RPG"
                 ],
                 "actual": 1,
                 "rank": 1
             },
             {
-                "appid": 105600,
-                "name": "Terraria",
+                "appid": 1604030,
+                "name": "V Rising",
                 "genre": [
-                    "Indie",
+                    "Massively Multiplayer",
                     "Adventure",
-                    "Action",
-                    "RPG"
+                    "Action"
                 ],
                 "actual": 0,
                 "rank": 2
             },
             {
-                "appid": 3419430,
-                "name": "Bongo Cat",
+                "appid": 640820,
+                "name": "Pathfinder: Kingmaker \u2014 Enhanced Plus Edition",
                 "genre": [
-                    "Simulation",
-                    "Massively Multiplayer",
-                    "Indie",
-                    "Casual",
-                    "Free To Play"
+                    "Adventure",
+                    "RPG"
                 ],
-                "actual": 0,
+                "actual": 1,
                 "rank": 3
             },
             {
-                "appid": 413150,
-                "name": "Stardew Valley",
+                "appid": 1716740,
+                "name": "Starfield",
                 "genre": [
-                    "Simulation",
-                    "Indie",
                     "RPG"
                 ],
                 "actual": 0,
                 "rank": 4
             },
             {
-                "appid": 3590,
-                "name": "Plants vs. Zombies GOTY Edition",
+                "appid": 435150,
+                "name": "Divinity: Original Sin 2 - Definitive Edition",
                 "genre": [
-                    "Strategy"
+                    "Strategy",
+                    "Adventure",
+                    "RPG"
                 ],
                 "actual": 0,
                 "rank": 5
             },
             {
-                "appid": 2835570,
-                "name": "Buckshot Roulette",
+                "appid": 526870,
+                "name": "Satisfactory",
                 "genre": [
+                    "Strategy",
                     "Simulation",
-                    "Indie",
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 6
-            },
-            {
-                "appid": 288160,
-                "name": "The Room",
-                "genre": [
                     "Indie",
                     "Adventure"
                 ],
                 "actual": 1,
-                "rank": 7
-            },
-            {
-                "appid": 588430,
-                "name": "Fallout Shelter",
-                "genre": [
-                    "Simulation",
-                    "Free To Play",
-                    "RPG"
-                ],
-                "actual": 0,
-                "rank": 8
-            },
-            {
-                "appid": 431960,
-                "name": "Wallpaper Engine",
-                "genre": [
-                    "Indie",
-                    "Casual",
-                    "Animation & Modeling",
-                    "Design & Illustration",
-                    "Photo Editing",
-                    "Utilities"
-                ],
-                "actual": 0,
-                "rank": 9
-            },
-            {
-                "appid": 1222140,
-                "name": "Detroit: Become Human",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 10
-            }
-        ]
-    },
-    "76561198072726696": {
-        "url": "https://steamcommunity.com/profiles/76561198072726696",
-        "popularity": [
-            {
-                "appid": 550,
-                "name": "Left 4 Dead 2",
-                "genre": [
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 1
-            },
-            {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
-                "genre": [
-                    "RPG"
-                ],
-                "rank": 2
-            },
-            {
-                "appid": 620,
-                "name": "Portal 2",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "rank": 3
-            },
-            {
-                "appid": 292030,
-                "name": "The Witcher 3: Wild Hunt",
-                "genre": [
-                    "RPG"
-                ],
-                "rank": 4
-            },
-            {
-                "appid": 105600,
-                "name": "Terraria",
-                "genre": [
-                    "Indie",
-                    "Adventure",
-                    "Action",
-                    "RPG"
-                ],
-                "rank": 5
-            },
-            {
-                "appid": 1245620,
-                "name": "ELDEN RING",
-                "genre": [
-                    "Action",
-                    "RPG"
-                ],
                 "rank": 6
             },
             {
-                "appid": 379720,
-                "name": "DOOM",
-                "genre": [
-                    "Action"
-                ],
-                "rank": 7
-            },
-            {
-                "appid": 413150,
-                "name": "Stardew Valley",
-                "genre": [
-                    "Simulation",
-                    "Indie",
-                    "RPG"
-                ],
-                "rank": 8
-            },
-            {
-                "appid": 1794680,
-                "name": "Vampire Survivors",
-                "genre": [
-                    "Indie",
-                    "Casual",
-                    "Action",
-                    "RPG"
-                ],
-                "rank": 9
-            },
-            {
-                "appid": 239140,
-                "name": "Dying Light",
-                "genre": [
-                    "Action",
-                    "RPG"
-                ],
-                "rank": 10
-            }
-        ],
-        "content": [
-            {
-                "appid": 730,
-                "name": "Counter-Strike 2",
-                "genre": [
-                    "FPS",
-                    "Competitive"
-                ],
-                "actual": 0,
-                "rank": 1
-            },
-            {
-                "appid": 570,
-                "name": "Dota 2",
-                "genre": [
-                    "MOBA",
-                    "Strategy"
-                ],
-                "rank": 2
-            },
-            {
-                "appid": 1245620,
-                "name": "Elden Ring",
-                "genre": [
-                    "RPG",
-                    "Souls-like"
-                ],
-                "rank": 3
-            },
-            {
-                "appid": 1086940,
-                "name": "Baldur's Gate 3",
-                "genre": [
-                    "RPG",
-                    "Story Rich"
-                ],
-                "rank": 4
-            },
-            {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
-                "genre": [
-                    "Sci-fi",
-                    "Open World"
-                ],
-                "rank": 5
-            },
-            {
-                "appid": 292030,
-                "name": "The Witcher 3",
-                "genre": [
-                    "RPG",
-                    "Story Rich"
-                ],
-                "rank": 6
-            },
-            {
-                "appid": 374320,
-                "name": "Dark Souls III",
-                "genre": [
-                    "Difficult",
-                    "Souls-like"
-                ],
-                "rank": 7
-            },
-            {
-                "appid": 1627720,
-                "name": "Lies of P",
-                "genre": [
-                    "Dark Fantasy"
-                ],
-                "rank": 8
-            },
-            {
-                "appid": 2215430,
-                "name": "Ghost of Tsushima",
-                "genre": [
-                    "Action"
-                ],
-                "rank": 9
-            },
-            {
-                "appid": 1593500,
-                "name": "God of War",
-                "genre": [
-                    "Gods",
-                    "Combat"
-                ],
-                "rank": 10
-            }
-        ],
-        "collaborative": [
-            {
-                "appid": 1222140,
-                "name": "Detroit: Become Human",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 1,
-                "rank": 1
-            },
-            {
-                "appid": 1426210,
-                "name": "It Takes Two",
-                "genre": [
-                    "Indie",
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 2
-            },
-            {
-                "appid": 475550,
-                "name": "Beholder",
+                "appid": 2186680,
+                "name": "Warhammer 40,000: Rogue Trader",
                 "genre": [
                     "Strategy",
                     "Indie",
-                    "Adventure"
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "actual": 1,
-                "rank": 3
-            },
-            {
-                "appid": 319630,
-                "name": "Life is Strange - Episode 1",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 1,
-                "rank": 4
-            },
-            {
-                "appid": 960910,
-                "name": "Heavy Rain",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 5
-            },
-            {
-                "appid": 960990,
-                "name": "Beyond: Two Souls",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 1,
-                "rank": 6
-            },
-            {
-                "appid": 1222700,
-                "name": "A Way Out",
-                "genre": [
-                    "Indie",
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 0,
                 "rank": 7
             },
             {
-                "appid": 239030,
-                "name": "Papers, Please",
+                "appid": 637090,
+                "name": "BATTLETECH",
                 "genre": [
-                    "Indie",
-                    "Adventure"
+                    "Strategy",
+                    "Adventure",
+                    "Action"
                 ],
                 "actual": 1,
                 "rank": 8
             },
             {
-                "appid": 476600,
-                "name": "Call of Duty\u00ae: WWII",
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
                 "genre": [
-                    "Action"
+                    "Strategy",
+                    "Adventure",
+                    "RPG"
                 ],
                 "actual": 0,
                 "rank": 9
             },
             {
-                "appid": 620,
-                "name": "Portal 2",
+                "appid": 560130,
+                "name": "Pillars of Eternity II: Deadfire",
                 "genre": [
-                    "Adventure",
-                    "Action"
+                    "RPG"
                 ],
-                "actual": 0,
+                "actual": 1,
                 "rank": 10
             }
         ]
     },
-    "76561198438299428": {
-        "url": "https://steamcommunity.com/profiles/76561198438299428",
+    "76561198831888186": {
+        "url": "https://steamcommunity.com/profiles/76561198831888186",
         "popularity": [
             {
                 "appid": 550,
@@ -909,6 +1256,7 @@
                 "genre": [
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 2
             },
             {
@@ -918,6 +1266,7 @@
                     "Adventure",
                     "Action"
                 ],
+                "actual": 0,
                 "rank": 3
             },
             {
@@ -926,6 +1275,7 @@
                 "genre": [
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 4
             },
             {
@@ -937,6 +1287,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 5
             },
             {
@@ -946,6 +1297,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 6
             },
             {
@@ -954,6 +1306,7 @@
                 "genre": [
                     "Action"
                 ],
+                "actual": 0,
                 "rank": 7
             },
             {
@@ -964,6 +1317,7 @@
                     "Indie",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 8
             },
             {
@@ -975,6 +1329,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 9
             },
             {
@@ -984,6 +1339,7 @@
                     "Action",
                     "RPG"
                 ],
+                "actual": 0,
                 "rank": 10
             }
         ],
@@ -1080,102 +1436,108 @@
         ],
         "collaborative": [
             {
-                "appid": 271590,
-                "name": "Grand Theft Auto V Legacy",
+                "appid": 1369630,
+                "name": "ENDER LILIES: Quietus of the Knights",
                 "genre": [
-                    "Adventure",
-                    "Action"
+                    "Indie",
+                    "Action",
+                    "RPG"
                 ],
                 "actual": 1,
                 "rank": 1
             },
             {
-                "appid": 1174180,
-                "name": "Red Dead Redemption 2",
+                "appid": 2358720,
+                "name": "Black Myth: Wukong",
                 "genre": [
                     "Adventure",
-                    "Action"
+                    "Action",
+                    "RPG"
                 ],
-                "actual": 1,
+                "actual": 0,
                 "rank": 2
             },
             {
-                "appid": 550,
-                "name": "Left 4 Dead 2",
+                "appid": 3489700,
+                "name": "Stellar Blade\u2122",
                 "genre": [
-                    "Action"
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "actual": 0,
                 "rank": 3
             },
             {
-                "appid": 239140,
-                "name": "Dying Light",
+                "appid": 1245620,
+                "name": "ELDEN RING",
                 "genre": [
                     "Action",
                     "RPG"
                 ],
-                "actual": 1,
+                "actual": 0,
                 "rank": 4
             },
             {
-                "appid": 379720,
-                "name": "DOOM",
-                "genre": [
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 5
-            },
-            {
-                "appid": 477160,
-                "name": "Human Fall Flat",
-                "genre": [
-                    "Simulation",
-                    "Indie",
-                    "Casual",
-                    "Adventure"
-                ],
-                "actual": 0,
-                "rank": 6
-            },
-            {
-                "appid": 225540,
-                "name": "Just Cause\u2122 3",
+                "appid": 814380,
+                "name": "Sekiro\u2122: Shadows Die Twice - GOTY Edition",
                 "genre": [
                     "Adventure",
                     "Action"
+                ],
+                "actual": 1,
+                "rank": 5
+            },
+            {
+                "appid": 1282100,
+                "name": "REMNANT II\u00ae",
+                "genre": [
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 6
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "actual": 1,
                 "rank": 7
             },
             {
-                "appid": 220240,
-                "name": "Far Cry 3",
+                "appid": 1903340,
+                "name": "Clair Obscur: Expedition 33",
                 "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 8
-            },
-            {
-                "appid": 552520,
-                "name": "Far Cry\u00ae 5",
-                "genre": [
-                    "Adventure",
-                    "Action"
-                ],
-                "actual": 0,
-                "rank": 9
-            },
-            {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
-                "genre": [
+                    "Action",
                     "RPG"
                 ],
                 "actual": 1,
+                "rank": 8
+            },
+            {
+                "appid": 2622380,
+                "name": "ELDEN RING NIGHTREIGN",
+                "genre": [
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 9
+            },
+            {
+                "appid": 1544020,
+                "name": "The Callisto Protocol\u2122",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
                 "rank": 10
             }
         ]
