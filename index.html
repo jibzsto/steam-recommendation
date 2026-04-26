@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://steamcommunity.com/favicon.ico">
+    <title>Steam Recommendation Engine - BIG DATA Project</title>
+    <style>
+        body {
+            background-color: #1b2838;
+            color: #c7d5e0;
+            font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-repeat: no-repeat;
+            background-position: center top;
+            background-attachment: fixed;
+        }
+        
+        /* Steam Header */
+        .steam-navbar {
+            background: #171a25;
+            height: 64px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 5%;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        .nav-left .steam-logo {
+            width: 140px;
+            height: auto;
+            pointer-events: none;
+            user-select: none;
+        }
+        .nav-right {
+            color: #b8b6b4;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .container-fluid {
+            width: 98%;
+            margin: 15px auto;
+            padding: 10px;
+        }
+        
+        /* User Switcher */
+        .controls {
+            max-width: 500px;
+            margin: 0 auto 20px auto;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.4);
+            border-radius: 3px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            border: 1px solid #3d4450;
+        }
+        .controls label {
+            font-size: 13px;
+            color: #66c0f4;
+            white-space: nowrap;
+        }
+        select {
+            flex-grow: 1;
+            background-color: #3d4450;
+            color: white;
+            border: 1px solid #000;
+            padding: 8px;
+            font-size: 14px;
+            border-radius: 2px;
+        }
+        
+        /* Comparison Grid */
+        .recommendation-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            align-items: start;
+        }
+        
+        .column-header {
+            background: linear-gradient(to right, #2a475e 0%, #1b2838 100%);
+            padding: 15px;
+            border-bottom: 2px solid #66c0f4;
+            margin-bottom: 10px;
+        }
+        .column-header h2 {
+            margin: 0;
+            font-size: 18px;
+            color: #fff;
+            font-weight: normal;
+        }
+
+        .column-header p {
+            margin: 5px 0 0 0;
+            font-size: 12px;
+            color: #66c0f4;
+        }
+        
+        .game-list {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+        
+        /* Row-based Game Item (Small Image) */
+        .game-row {
+            background: rgba(0, 0, 0, 0.2);
+            display: flex;
+            align-items: flex-start;
+            padding: 4px;
+            text-decoration: none;
+            color: inherit;
+            border-left: 2px solid transparent;
+            transition: background 0.2s;
+        }
+        .game-row:hover {
+            background: rgba(255, 255, 255, 0.1);
+            border-left-color: #66c0f4;
+        }
+        
+        .rank-num {
+            width: 20px;
+            font-size: 12px;
+            color: #4f94bc;
+            text-align: center;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .rank-badge {
+            position: absolute;
+            right: 0px;
+            background: rgba(0,0,0,0.6);
+            color: #fff;
+            padding: 2px 8px;
+            font-weight: bold;
+            border-radius: 2px;
+            font-size: 14px;
+            z-index: 2;
+        }
+        
+        
+        .game-img-small {
+            position: relative;
+            width: 120px; /* Reduced image size */
+            height: 56px;
+            background: #171a21;
+            margin-right: 10px;
+            flex-shrink: 0;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+        }
+        .game-img-small img {
+            width: 100%;
+            height: auto;
+            pointer-events: none;
+            user-select: none;
+        }
+        
+        .game-content {
+            flex-grow: 1;
+            min-width: 0; /* Ensures text truncation works */
+        }
+        .game-title {
+            font-size: 16px;
+            color: #c7d5e0;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-bottom: 2px;
+        }
+        .tags-row {
+            margin-top: 6px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 3px;
+        }
+        .tag-small {
+            font-size: 12px;
+            background: rgba(0, 0, 0, 0.3);
+            color: #67c1f5;
+            padding: 2px 4px;
+            border-radius: 2px;
+        }
+
+        .actual-play {
+            outline: solid 2px #5c7e10;
+            outline-offset: -2px;
+            background: rgb(92 126 16 / 20%)
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #556772;
+            font-size: 11px;
+        }
+        
+        @media (max-width: 1000px) {
+            .recommendation-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="steam-navbar">
+        <div class="nav-left">
+            <img src="https://community.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg" class="steam-logo" alt="Steam Logo">
+        </div>
+        <div class="nav-right">Steam Recommendation</div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="controls">
+            <label for="userSelect">User :</label>
+            <select id="userSelect" onchange="renderAll()">
+                <!-- Options will be generated dynamically by JS -->
+            </select>
+        </div>
+
+        <div class="recommendation-grid">
+            <!-- Popularity Column -->
+            <div class="column">
+                <div class="column-header">
+                    <h2><span style="font-weight: bold;">Popularity</span>-based Recommendation</h2>
+                    <p>If games are poplular, you might like these game.</p>
+                </div>
+                <div id="list-popularity" class="game-list"></div>
+            </div>
+
+            <!-- Content-based Column -->
+            <div class="column">
+                <div class="column-header">
+                    <h2><span style="font-weight: bold;">Content</span>-based Recommendation (LSH)</h2>
+                    <p>If you like game A, you might like game B.</p>
+                </div>
+                <div id="list-content" class="game-list"></div>
+            </div>
+
+            <!-- Collaborative Column -->
+            <div class="column">
+                <div class="column-header">
+                    <h2><span style="font-weight: bold;">Collaborative</span> Recommendation (ALS)</h2>
+                    <p>User like you also enjoyed these games.</p>
+                </div>
+                <div id="list-collaborative" class="game-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        &copy; Steam Recommendation Dashboard - BIG DATA Project
+    </footer>
+
+    <script>
+        let userData = {};
+        // Load data from userData.json
+        async function loadUserData() {
+            try {
+                const response = await fetch('userData.json');
+                const jsonData = await response.json();
+                
+                // Map Steam IDs to user keys and transform data structure
+                
+                // Map Steam IDs to user keys and transform data structure
+                userData = jsonData;
+                
+                // Dynamically populate the dropdown list based on keys in JSON
+                const userSelect = document.getElementById('userSelect');
+                userSelect.innerHTML = ''; // Clear hardcoded options
+                let userCount = 1;
+                for (const userId in userData) {
+                    const option = document.createElement('option');
+                    option.value = userId;
+                    // Generate names like User A, User B, etc. using ASCII codes
+                    const userName = 'User '; 
+                    option.textContent = `${userName} (${userId})`;
+                    userSelect.appendChild(option);
+                }
+                
+                renderAll();
+            } catch (error) {
+                console.error('Error loading user data:', error);
+            }
+        }
+
+        function renderList(elementId, games) {
+            const container = document.getElementById(elementId);
+            container.innerHTML = '';
+            games.forEach((game, index) => {
+                const imgUrl = `https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/${game.appid}/header.jpg`;
+                
+                const item = document.createElement('div');
+                item.className = 'game-row';
+
+                if (game.actual == 1) {
+                    item.classList.add('actual-play');
+                }
+                
+                let tagsHtml = game.genre.map(t => `<span class="tag-small">${t}</span>`).join('');
+                
+                item.innerHTML = `
+                    <div class="game-img-small">
+                        <div class="rank-badge">${index + 1}</div>
+                        <img src="${imgUrl}" alt="${game.name}" onerror="this.src='https://community.cloudflare.steamstatic.com/public/images/applications/store/header.jpg'">
+                    </div>
+                    <div class="game-content">
+                        <div class="game-title">${game.name}</div>
+                        <div class="tags-row">${tagsHtml}</div>
+                    </div>
+                `;
+                container.appendChild(item);
+            });
+        }
+
+        function renderAll() {
+            const userKey = document.getElementById('userSelect').value;
+            const data = userData[userKey];
+            renderList('list-popularity', data.popularity);
+            renderList('list-content', data.content);
+            renderList('list-collaborative', data.collaborative);
+        }
+
+
+        // Load data and render initially
+        loadUserData();
+    </script>
+</body>
+</html>

@@ -1,0 +1,1171 @@
+{
+    "76561198019968469": {
+        "url": "https://steamcommunity.com/profiles/76561198019968469",
+        "popularity": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "content": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "collaborative": [
+            {
+                "appid": 1222670,
+                "name": "The Sims\u2122 4",
+                "genre": [
+                    "Simulation",
+                    "Casual",
+                    "Free To Play",
+                    "Adventure"
+                ],
+                "actual": 1,
+                "rank": 1
+            },
+            {
+                "appid": 271590,
+                "name": "Grand Theft Auto V Legacy",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 2
+            },
+            {
+                "appid": 578080,
+                "name": "PUBG: BATTLEGROUNDS",
+                "genre": [
+                    "Massively Multiplayer",
+                    "Free To Play",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 3
+            },
+            {
+                "appid": 252490,
+                "name": "Rust",
+                "genre": [
+                    "Massively Multiplayer",
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 4
+            },
+            {
+                "appid": 495420,
+                "name": "State of Decay 2: Juggernaut Edition",
+                "genre": [
+                    "Simulation",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 5
+            },
+            {
+                "appid": 2507950,
+                "name": "Delta Force",
+                "genre": [
+                    "Massively Multiplayer",
+                    "Free To Play",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 6
+            },
+            {
+                "appid": 2073850,
+                "name": "THE FINALS",
+                "genre": [
+                    "Free To Play",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 7
+            },
+            {
+                "appid": 1938090,
+                "name": "Call of Duty\u00ae",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 12210,
+                "name": "Grand Theft Auto IV: The Complete Edition",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 1172470,
+                "name": "Apex Legends\u2122",
+                "genre": [
+                    "Free To Play",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 10
+            }
+        ]
+    },
+    "76561198042923150": {
+        "url": "https://steamcommunity.com/profiles/76561198042923150",
+        "popularity": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "content": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "collaborative": [
+            {
+                "appid": 945360,
+                "name": "Among Us",
+                "genre": [
+                    "Casual"
+                ],
+                "actual": 1,
+                "rank": 1
+            },
+            {
+                "appid": 105600,
+                "name": "Terraria",
+                "genre": [
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 2
+            },
+            {
+                "appid": 3419430,
+                "name": "Bongo Cat",
+                "genre": [
+                    "Simulation",
+                    "Massively Multiplayer",
+                    "Indie",
+                    "Casual",
+                    "Free To Play"
+                ],
+                "actual": 0,
+                "rank": 3
+            },
+            {
+                "appid": 413150,
+                "name": "Stardew Valley",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 4
+            },
+            {
+                "appid": 3590,
+                "name": "Plants vs. Zombies GOTY Edition",
+                "genre": [
+                    "Strategy"
+                ],
+                "actual": 0,
+                "rank": 5
+            },
+            {
+                "appid": 2835570,
+                "name": "Buckshot Roulette",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 6
+            },
+            {
+                "appid": 288160,
+                "name": "The Room",
+                "genre": [
+                    "Indie",
+                    "Adventure"
+                ],
+                "actual": 1,
+                "rank": 7
+            },
+            {
+                "appid": 588430,
+                "name": "Fallout Shelter",
+                "genre": [
+                    "Simulation",
+                    "Free To Play",
+                    "RPG"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 431960,
+                "name": "Wallpaper Engine",
+                "genre": [
+                    "Indie",
+                    "Casual",
+                    "Animation & Modeling",
+                    "Design & Illustration",
+                    "Photo Editing",
+                    "Utilities"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 1222140,
+                "name": "Detroit: Become Human",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 10
+            }
+        ]
+    },
+    "76561198072726696": {
+        "url": "https://steamcommunity.com/profiles/76561198072726696",
+        "popularity": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "content": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "collaborative": [
+            {
+                "appid": 1222140,
+                "name": "Detroit: Become Human",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 1
+            },
+            {
+                "appid": 1426210,
+                "name": "It Takes Two",
+                "genre": [
+                    "Indie",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 2
+            },
+            {
+                "appid": 475550,
+                "name": "Beholder",
+                "genre": [
+                    "Strategy",
+                    "Indie",
+                    "Adventure"
+                ],
+                "actual": 1,
+                "rank": 3
+            },
+            {
+                "appid": 319630,
+                "name": "Life is Strange - Episode 1",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 4
+            },
+            {
+                "appid": 960910,
+                "name": "Heavy Rain",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 5
+            },
+            {
+                "appid": 960990,
+                "name": "Beyond: Two Souls",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 6
+            },
+            {
+                "appid": 1222700,
+                "name": "A Way Out",
+                "genre": [
+                    "Indie",
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 7
+            },
+            {
+                "appid": 239030,
+                "name": "Papers, Please",
+                "genre": [
+                    "Indie",
+                    "Adventure"
+                ],
+                "actual": 1,
+                "rank": 8
+            },
+            {
+                "appid": 476600,
+                "name": "Call of Duty\u00ae: WWII",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 620,
+                "name": "Portal 2",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 10
+            }
+        ]
+    },
+    "76561198438299428": {
+        "url": "https://steamcommunity.com/profiles/76561198438299428",
+        "popularity": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "content": [
+            {
+                "appid": 730,
+                "name": "Counter-Strike 2",
+                "genre": [
+                    "FPS",
+                    "Competitive"
+                ],
+                "actual": 0,
+                "rank": 1
+            },
+            {
+                "appid": 570,
+                "name": "Dota 2",
+                "genre": [
+                    "MOBA",
+                    "Strategy"
+                ],
+                "rank": 2
+            },
+            {
+                "appid": 1245620,
+                "name": "Elden Ring",
+                "genre": [
+                    "RPG",
+                    "Souls-like"
+                ],
+                "rank": 3
+            },
+            {
+                "appid": 1086940,
+                "name": "Baldur's Gate 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 4
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "Sci-fi",
+                    "Open World"
+                ],
+                "rank": 5
+            },
+            {
+                "appid": 292030,
+                "name": "The Witcher 3",
+                "genre": [
+                    "RPG",
+                    "Story Rich"
+                ],
+                "rank": 6
+            },
+            {
+                "appid": 374320,
+                "name": "Dark Souls III",
+                "genre": [
+                    "Difficult",
+                    "Souls-like"
+                ],
+                "rank": 7
+            },
+            {
+                "appid": 1627720,
+                "name": "Lies of P",
+                "genre": [
+                    "Dark Fantasy"
+                ],
+                "rank": 8
+            },
+            {
+                "appid": 2215430,
+                "name": "Ghost of Tsushima",
+                "genre": [
+                    "Action"
+                ],
+                "rank": 9
+            },
+            {
+                "appid": 1593500,
+                "name": "God of War",
+                "genre": [
+                    "Gods",
+                    "Combat"
+                ],
+                "rank": 10
+            }
+        ],
+        "collaborative": [
+            {
+                "appid": 271590,
+                "name": "Grand Theft Auto V Legacy",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 1
+            },
+            {
+                "appid": 1174180,
+                "name": "Red Dead Redemption 2",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 2
+            },
+            {
+                "appid": 550,
+                "name": "Left 4 Dead 2",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 3
+            },
+            {
+                "appid": 239140,
+                "name": "Dying Light",
+                "genre": [
+                    "Action",
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 4
+            },
+            {
+                "appid": 379720,
+                "name": "DOOM",
+                "genre": [
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 5
+            },
+            {
+                "appid": 477160,
+                "name": "Human Fall Flat",
+                "genre": [
+                    "Simulation",
+                    "Indie",
+                    "Casual",
+                    "Adventure"
+                ],
+                "actual": 0,
+                "rank": 6
+            },
+            {
+                "appid": 225540,
+                "name": "Just Cause\u2122 3",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 1,
+                "rank": 7
+            },
+            {
+                "appid": 220240,
+                "name": "Far Cry 3",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 8
+            },
+            {
+                "appid": 552520,
+                "name": "Far Cry\u00ae 5",
+                "genre": [
+                    "Adventure",
+                    "Action"
+                ],
+                "actual": 0,
+                "rank": 9
+            },
+            {
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
+                "genre": [
+                    "RPG"
+                ],
+                "actual": 1,
+                "rank": 10
+            }
+        ]
+    }
+}
