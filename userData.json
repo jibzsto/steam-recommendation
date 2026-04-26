@@ -3,91 +3,94 @@
         "url": "https://steamcommunity.com/profiles/76561198019968469",
         "popularity": [
             {
-                "appid": 730,
-                "name": "Counter-Strike 2",
+                "appid": 550,
+                "name": "Left 4 Dead 2",
                 "genre": [
-                    "FPS",
-                    "Competitive"
+                    "Action"
                 ],
                 "actual": 0,
                 "rank": 1
             },
             {
-                "appid": 570,
-                "name": "Dota 2",
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
                 "genre": [
-                    "MOBA",
-                    "Strategy"
+                    "RPG"
                 ],
                 "rank": 2
             },
             {
-                "appid": 1245620,
-                "name": "Elden Ring",
+                "appid": 620,
+                "name": "Portal 2",
                 "genre": [
-                    "RPG",
-                    "Souls-like"
+                    "Adventure",
+                    "Action"
                 ],
                 "rank": 3
             },
             {
-                "appid": 1086940,
-                "name": "Baldur's Gate 3",
+                "appid": 292030,
+                "name": "The Witcher 3: Wild Hunt",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "RPG"
                 ],
                 "rank": 4
             },
             {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
+                "appid": 105600,
+                "name": "Terraria",
                 "genre": [
-                    "Sci-fi",
-                    "Open World"
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 5
             },
             {
-                "appid": 292030,
-                "name": "The Witcher 3",
+                "appid": 1245620,
+                "name": "ELDEN RING",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 6
             },
             {
-                "appid": 374320,
-                "name": "Dark Souls III",
+                "appid": 379720,
+                "name": "DOOM",
                 "genre": [
-                    "Difficult",
-                    "Souls-like"
+                    "Action"
                 ],
                 "rank": 7
             },
             {
-                "appid": 1627720,
-                "name": "Lies of P",
+                "appid": 413150,
+                "name": "Stardew Valley",
                 "genre": [
-                    "Dark Fantasy"
+                    "Simulation",
+                    "Indie",
+                    "RPG"
                 ],
                 "rank": 8
             },
             {
-                "appid": 2215430,
-                "name": "Ghost of Tsushima",
+                "appid": 1794680,
+                "name": "Vampire Survivors",
                 "genre": [
-                    "Action"
+                    "Indie",
+                    "Casual",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 9
             },
             {
-                "appid": 1593500,
-                "name": "God of War",
+                "appid": 239140,
+                "name": "Dying Light",
                 "genre": [
-                    "Gods",
-                    "Combat"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 10
             }
@@ -300,91 +303,94 @@
         "url": "https://steamcommunity.com/profiles/76561198042923150",
         "popularity": [
             {
-                "appid": 730,
-                "name": "Counter-Strike 2",
+                "appid": 550,
+                "name": "Left 4 Dead 2",
                 "genre": [
-                    "FPS",
-                    "Competitive"
+                    "Action"
                 ],
                 "actual": 0,
                 "rank": 1
             },
             {
-                "appid": 570,
-                "name": "Dota 2",
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
                 "genre": [
-                    "MOBA",
-                    "Strategy"
+                    "RPG"
                 ],
                 "rank": 2
             },
             {
-                "appid": 1245620,
-                "name": "Elden Ring",
+                "appid": 620,
+                "name": "Portal 2",
                 "genre": [
-                    "RPG",
-                    "Souls-like"
+                    "Adventure",
+                    "Action"
                 ],
                 "rank": 3
             },
             {
-                "appid": 1086940,
-                "name": "Baldur's Gate 3",
+                "appid": 292030,
+                "name": "The Witcher 3: Wild Hunt",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "RPG"
                 ],
                 "rank": 4
             },
             {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
+                "appid": 105600,
+                "name": "Terraria",
                 "genre": [
-                    "Sci-fi",
-                    "Open World"
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 5
             },
             {
-                "appid": 292030,
-                "name": "The Witcher 3",
+                "appid": 1245620,
+                "name": "ELDEN RING",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 6
             },
             {
-                "appid": 374320,
-                "name": "Dark Souls III",
+                "appid": 379720,
+                "name": "DOOM",
                 "genre": [
-                    "Difficult",
-                    "Souls-like"
+                    "Action"
                 ],
                 "rank": 7
             },
             {
-                "appid": 1627720,
-                "name": "Lies of P",
+                "appid": 413150,
+                "name": "Stardew Valley",
                 "genre": [
-                    "Dark Fantasy"
+                    "Simulation",
+                    "Indie",
+                    "RPG"
                 ],
                 "rank": 8
             },
             {
-                "appid": 2215430,
-                "name": "Ghost of Tsushima",
+                "appid": 1794680,
+                "name": "Vampire Survivors",
                 "genre": [
-                    "Action"
+                    "Indie",
+                    "Casual",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 9
             },
             {
-                "appid": 1593500,
-                "name": "God of War",
+                "appid": 239140,
+                "name": "Dying Light",
                 "genre": [
-                    "Gods",
-                    "Combat"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 10
             }
@@ -597,91 +603,94 @@
         "url": "https://steamcommunity.com/profiles/76561198072726696",
         "popularity": [
             {
-                "appid": 730,
-                "name": "Counter-Strike 2",
+                "appid": 550,
+                "name": "Left 4 Dead 2",
                 "genre": [
-                    "FPS",
-                    "Competitive"
+                    "Action"
                 ],
                 "actual": 0,
                 "rank": 1
             },
             {
-                "appid": 570,
-                "name": "Dota 2",
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
                 "genre": [
-                    "MOBA",
-                    "Strategy"
+                    "RPG"
                 ],
                 "rank": 2
             },
             {
-                "appid": 1245620,
-                "name": "Elden Ring",
+                "appid": 620,
+                "name": "Portal 2",
                 "genre": [
-                    "RPG",
-                    "Souls-like"
+                    "Adventure",
+                    "Action"
                 ],
                 "rank": 3
             },
             {
-                "appid": 1086940,
-                "name": "Baldur's Gate 3",
+                "appid": 292030,
+                "name": "The Witcher 3: Wild Hunt",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "RPG"
                 ],
                 "rank": 4
             },
             {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
+                "appid": 105600,
+                "name": "Terraria",
                 "genre": [
-                    "Sci-fi",
-                    "Open World"
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 5
             },
             {
-                "appid": 292030,
-                "name": "The Witcher 3",
+                "appid": 1245620,
+                "name": "ELDEN RING",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 6
             },
             {
-                "appid": 374320,
-                "name": "Dark Souls III",
+                "appid": 379720,
+                "name": "DOOM",
                 "genre": [
-                    "Difficult",
-                    "Souls-like"
+                    "Action"
                 ],
                 "rank": 7
             },
             {
-                "appid": 1627720,
-                "name": "Lies of P",
+                "appid": 413150,
+                "name": "Stardew Valley",
                 "genre": [
-                    "Dark Fantasy"
+                    "Simulation",
+                    "Indie",
+                    "RPG"
                 ],
                 "rank": 8
             },
             {
-                "appid": 2215430,
-                "name": "Ghost of Tsushima",
+                "appid": 1794680,
+                "name": "Vampire Survivors",
                 "genre": [
-                    "Action"
+                    "Indie",
+                    "Casual",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 9
             },
             {
-                "appid": 1593500,
-                "name": "God of War",
+                "appid": 239140,
+                "name": "Dying Light",
                 "genre": [
-                    "Gods",
-                    "Combat"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 10
             }
@@ -886,91 +895,94 @@
         "url": "https://steamcommunity.com/profiles/76561198438299428",
         "popularity": [
             {
-                "appid": 730,
-                "name": "Counter-Strike 2",
+                "appid": 550,
+                "name": "Left 4 Dead 2",
                 "genre": [
-                    "FPS",
-                    "Competitive"
+                    "Action"
                 ],
                 "actual": 0,
                 "rank": 1
             },
             {
-                "appid": 570,
-                "name": "Dota 2",
+                "appid": 1091500,
+                "name": "Cyberpunk 2077",
                 "genre": [
-                    "MOBA",
-                    "Strategy"
+                    "RPG"
                 ],
                 "rank": 2
             },
             {
-                "appid": 1245620,
-                "name": "Elden Ring",
+                "appid": 620,
+                "name": "Portal 2",
                 "genre": [
-                    "RPG",
-                    "Souls-like"
+                    "Adventure",
+                    "Action"
                 ],
                 "rank": 3
             },
             {
-                "appid": 1086940,
-                "name": "Baldur's Gate 3",
+                "appid": 292030,
+                "name": "The Witcher 3: Wild Hunt",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "RPG"
                 ],
                 "rank": 4
             },
             {
-                "appid": 1091500,
-                "name": "Cyberpunk 2077",
+                "appid": 105600,
+                "name": "Terraria",
                 "genre": [
-                    "Sci-fi",
-                    "Open World"
+                    "Indie",
+                    "Adventure",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 5
             },
             {
-                "appid": 292030,
-                "name": "The Witcher 3",
+                "appid": 1245620,
+                "name": "ELDEN RING",
                 "genre": [
-                    "RPG",
-                    "Story Rich"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 6
             },
             {
-                "appid": 374320,
-                "name": "Dark Souls III",
+                "appid": 379720,
+                "name": "DOOM",
                 "genre": [
-                    "Difficult",
-                    "Souls-like"
+                    "Action"
                 ],
                 "rank": 7
             },
             {
-                "appid": 1627720,
-                "name": "Lies of P",
+                "appid": 413150,
+                "name": "Stardew Valley",
                 "genre": [
-                    "Dark Fantasy"
+                    "Simulation",
+                    "Indie",
+                    "RPG"
                 ],
                 "rank": 8
             },
             {
-                "appid": 2215430,
-                "name": "Ghost of Tsushima",
+                "appid": 1794680,
+                "name": "Vampire Survivors",
                 "genre": [
-                    "Action"
+                    "Indie",
+                    "Casual",
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 9
             },
             {
-                "appid": 1593500,
-                "name": "God of War",
+                "appid": 239140,
+                "name": "Dying Light",
                 "genre": [
-                    "Gods",
-                    "Combat"
+                    "Action",
+                    "RPG"
                 ],
                 "rank": 10
             }
