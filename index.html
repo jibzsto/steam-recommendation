@@ -43,7 +43,7 @@
         }
         
         .container-fluid {
-            width: 98%;
+            width: 80%;
             margin: 15px auto;
             padding: 10px;
         }
@@ -78,7 +78,7 @@
         /* Comparison Grid */
         .recommendation-grid {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 15px;
             align-items: start;
         }
@@ -236,15 +236,6 @@
                 <div id="list-popularity" class="game-list"></div>
             </div>
 
-            <!-- Content-based Column -->
-            <div class="column">
-                <div class="column-header">
-                    <h2><span style="font-weight: bold;">Content</span>-based Recommendation (LSH)</h2>
-                    <p>If you like game A, you might like game B.</p>
-                </div>
-                <div id="list-content" class="game-list"></div>
-            </div>
-
             <!-- Collaborative Column -->
             <div class="column">
                 <div class="column-header">
@@ -310,7 +301,7 @@
                 item.innerHTML = `
                     <div class="game-img-small">
                         <div class="rank-badge">${index + 1}</div>
-                        <img src="${imgUrl}" alt="${game.name}" onerror="this.src='https://community.cloudflare.steamstatic.com/public/images/applications/store/header.jpg'">
+                        <img src="${imgUrl}" alt="${game.name}">
                     </div>
                     <div class="game-content">
                         <div class="game-title">${game.name}</div>
@@ -325,7 +316,6 @@
             const userKey = document.getElementById('userSelect').value;
             const data = userData[userKey];
             renderList('list-popularity', data.popularity);
-            renderList('list-content', data.content);
             renderList('list-collaborative', data.collaborative);
         }
 
